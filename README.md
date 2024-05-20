@@ -1,6 +1,6 @@
 # Industrial-safety.-NLP-based-Chatbot---Capstone-Project
 
-## DOMAIN: Industrial safety. NLP based Chatbot.
+## DOMAIN: Industrial safety- NLP based Chatbot.
 ## CONTEXT: 
 The database comes from one of the biggest industry in Brazil and in the world. It is an urgent need for industries/companies around the 
 globe to understand why employees still suffer some injuries/accidents in plants. Sometimes they also die in such environment.
